@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* New user
+* Who dis
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Ligma
+* Ayy lmao
 
 ## Getting started
 
